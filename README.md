@@ -13,9 +13,11 @@ Exploratory Data Analysis (EDA): Analyzing sentiment distribution and review pat
 Model Building: Constructing an LSTM model using embeddings to capture context and sequence information for sentiment prediction.
 Conclusion: Summarizing the model’s performance and key takeaways from the analysis.
 ## usage
-Clone the repository: 'git clone https://github.com/your-username/reviewssentiments.git'
-Open the Jupyter Notebook file "reviewssentiments.py".
-Run the cells in the notebook to execute the code step by step.
+1.Clone the repository:  `git clone https://github.com/your-username/reviewssentiments.git`
+
+2.Open the Jupyter Notebook file "reviewssentiments.py".
+
+3.Run the cells in the notebook to execute the code step by step.
 ## Results
 Once you execute the notebook, you will gain insights into the process of categorizing movie reviews as either positive or negative in sentiment.
 The LSTM-based deep learning model will generate predictions for new reviews, while evaluation metrics like accuracy and validation results will demonstrate how well the model interprets sentiment patterns in natural language.
