@@ -13,7 +13,7 @@ Exploratory Data Analysis (EDA): Analyzing sentiment distribution and review pat
 Model Building: Constructing an LSTM model using embeddings to capture context and sequence information for sentiment prediction.
 Conclusion: Summarizing the model’s performance and key takeaways from the analysis.
 ## usage
-Clone the repository: git clone https://github.com/your-username/reviewssentiments.git
+Clone the repository: 'git clone https://github.com/your-username/reviewssentiments.git'
 Open the Jupyter Notebook file "reviewssentiments.py".
 Run the cells in the notebook to execute the code step by step.
 ## Results
