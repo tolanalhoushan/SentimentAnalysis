@@ -21,4 +21,5 @@ Conclusion: Summarizing the model’s performance and key takeaways from the ana
 ## Results
 Once you execute the notebook, you will gain insights into the process of categorizing movie reviews as either positive or negative in sentiment.
 The LSTM-based deep learning model will generate predictions for new reviews, while evaluation metrics like accuracy and validation results will demonstrate how well the model interprets sentiment patterns in natural language.
-
+## Acknowledgments
+Special thanks to Kaggle and siddhardhan for providing the datasets and instructions used in this project.
